@@ -1,0 +1,35 @@
+{
+  "name": "node-starter-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalatCoder/node-starter-pack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DalatCoder/node-starter-pack/issues"
+  },
+  "homepage": "https://github.com/DalatCoder/node-starter-pack#readme",
+  "devDependencies": {
+    "eslint": "^6.2.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.18.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
